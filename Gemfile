@@ -52,3 +52,4 @@ gem "twitter-bootstrap-rails"
 gem "font-awesome-rails"
 #gem "font-awesome-rails", github: "bokmann/font-awesome-rails", branch: "master"
 gem 'simple_form'
+gem 'devise'
